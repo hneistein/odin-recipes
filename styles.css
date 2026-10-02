@@ -1,0 +1,17 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(211, 211, 211, 0.793);
+}
+
+h1 {
+    font-style: italic;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 5%;
+    border-color: black;
+}
